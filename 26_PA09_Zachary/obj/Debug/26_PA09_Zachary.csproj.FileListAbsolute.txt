@@ -1,0 +1,10 @@
+C:\Users\adrie\source\repos\26_PA09_Zachary\bin\Debug\26_PA09_Zachary.exe.config
+C:\Users\adrie\source\repos\26_PA09_Zachary\bin\Debug\26_PA09_Zachary.exe
+C:\Users\adrie\source\repos\26_PA09_Zachary\bin\Debug\26_PA09_Zachary.pdb
+C:\Users\adrie\source\repos\26_PA09_Zachary\obj\Debug\26_PA09_Zachary.csprojAssemblyReference.cache
+C:\Users\adrie\source\repos\26_PA09_Zachary\obj\Debug\_26_PA09_Zachary.Form1.resources
+C:\Users\adrie\source\repos\26_PA09_Zachary\obj\Debug\_26_PA09_Zachary.Properties.Resources.resources
+C:\Users\adrie\source\repos\26_PA09_Zachary\obj\Debug\26_PA09_Zachary.csproj.GenerateResource.cache
+C:\Users\adrie\source\repos\26_PA09_Zachary\obj\Debug\26_PA09_Zachary.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\26_PA09_Zachary\obj\Debug\26_PA09_Zachary.exe
+C:\Users\adrie\source\repos\26_PA09_Zachary\obj\Debug\26_PA09_Zachary.pdb
